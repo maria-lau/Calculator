@@ -1,4 +1,4 @@
-package msallp.com.arithmeticcalculator;
+package mlau.com.arithmeticcalculator;
 
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AlertDialog;

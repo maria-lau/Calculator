@@ -1,4 +1,4 @@
-package msallp.com.simplecalculator;
+package mlau.com.arithmeticcalculator;
 
 import org.junit.Test;
 

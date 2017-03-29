@@ -1,4 +1,4 @@
-package msallp.com.simplecalculator;
+package mlau.com.arithmeticcalculator;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("msallp.com.simplecalculator", appContext.getPackageName());
+        assertEquals("mlau.com.arithmeticcalculator", appContext.getPackageName());
     }
 }
